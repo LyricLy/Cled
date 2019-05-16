@@ -1,0 +1,11 @@
+{
+    "token": "<token>",
+    "text_foreground": "white",
+    "text_background": "black",
+    "server_foreground": "red",
+    "server_background": "black",
+    "channel_foreground": "red",
+    "channel_background": "black",
+    "mention_foreground": "white",
+    "mention_background": "blue"
+}
